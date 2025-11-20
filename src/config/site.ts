@@ -6,8 +6,8 @@ type SiteInfo = {
 };
 
 export const siteInfo = {
-  name: "Next-Stage",
-  title: "Next-Stage",
-  description: "A modern, type-safe Next.js starter template designed for AI-driven development",
-  url: "https://next-stage-demo.vercel.app/",
+  name: "Sheet Trainer",
+  title: "Sheet Trainer",
+  description: "Master sheet music reading with interactive practice exercises",
+  url: "https://sheet-trainer.vercel.app/",
 } as const satisfies SiteInfo;
